@@ -13,7 +13,7 @@
 
 ## Description
 
-_The link at the top of the page will take you to the Github pages to view the live site for this project. The links under each project tile will take you to the git repositories for these files. The images conatined in each project file are snippets of the html code contained within them._
+_The link at the top of the page will take you to the Github pages to view the live site for this project. The links under each project tile will take you to the git repositories for these files. The images conatined in each project file are snippets of the html code contained within them. The "Show All" button will take you to my Github account and display all of my remote repositories._
 
 ## Setup/Installation Requirements
 
