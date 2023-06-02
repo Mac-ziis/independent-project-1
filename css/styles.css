@@ -208,7 +208,7 @@ section {
 #profile-link:hover {
   box-shadow: 0 30px 60px 0 var(--neutral-focus);
 }
-/* need to play around with separate columns for work exp. */
+
 .work-list {
   padding: 50px 0;
   text-align: left;
