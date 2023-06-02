@@ -173,6 +173,7 @@ section {
   border-radius: 5px;
   cursor: pointer;
   transition: background-color 0.2s ease-in;
+  border: 4px solid var(--neautral-focus);
 }
 
 #profile-link {
@@ -188,7 +189,7 @@ section {
   box-shadow: 0 30px 60px 0 var(--neutral-focus);
 }
 /* need to play around with separate columns for work exp. */
-.work-columns {
+.work-list {
   padding: 50px 0;
   text-align: left;
   margin-left: 30%;
