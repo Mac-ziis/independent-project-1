@@ -30,6 +30,26 @@ h1 {
   padding-bottom: 30px;
 }
 
+#mac-image {
+  width: 30%;
+  margin-left: 10%;
+  border: 2px solid;
+  float: left;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  filter: drop-shadow(10px 10px 10px black);
+}
+
+#mac-2-image {
+  width: 30%;
+  margin-right: 10%;
+  border: 2px solid;
+  float: right;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  filter: drop-shadow(10px 10px 10px black);
+}
+
 #about-me {
   font-size: 35px;
   padding-top: 30px;
